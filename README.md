@@ -6,7 +6,7 @@ A computer vision project that can detect various kinds of animals species based
 1. Clone the repo
 2. Install [Anaconda](https://www.anaconda.com/download)
 3. Download the [Animal-10 Kaggle dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10?resource=download)
-4. Go into the downloaded folder `/archive/raw-img/`
+4. Go into the downloaded dataset folder `/archive/raw-img/`
 5. All the folders have Italian names, manually rename them to English:
 - `cane > dog`
 - `cavallo > horse`
