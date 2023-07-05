@@ -1,7 +1,7 @@
 # Animal-Image-Detection
 A computer vision project that can detect various kinds of animals species based on an image uploaded by the user. The AI will be able to predict the breed based on images provided by a Kaggle dataset.  Created for COMP 469.
 
-## How-to work on this reposiory:
+## How-to work on this repository:
 *FOR ANY FILE OR FOLDER NAMES CAPITALIZATION MATTERS*
 1. Clone the repo
 2. Install [Anaconda](https://www.anaconda.com/download)
