@@ -25,4 +25,8 @@ images/
 # logs folder
 logs/
 
+### Ignore pkl files ###
+# Pickle
+*.pkl
+
 
