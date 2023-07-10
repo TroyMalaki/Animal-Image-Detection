@@ -17,41 +17,15 @@ ipython_config.py
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 
-### Images ###
-# JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
+### Images folder ###
+# Images
+images/
 
-# JPEG 2000
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
+### Ignore log files ###
+# logs folder
+logs/
 
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
-
-# Graphics Interchange Format
-*.gif
-
-# RAW
-*.raw
-
-# Web P
-*.webp
-
-# Portable Network Graphics
-*.png
-
-### Ignore the pickle files ###
+### Ignore pkl files ###
 # Pickle
 *.pkl
 
