@@ -21,7 +21,11 @@ ipython_config.py
 # Images
 images/
 
-### Ignore the pickle files ###
+### Ignore log files ###
+# logs folder
+logs/
+
+### Ignore pkl files ###
 # Pickle
 *.pkl
 
